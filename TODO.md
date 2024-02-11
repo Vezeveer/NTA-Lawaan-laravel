@@ -1,0 +1,2 @@
+-register button
+-sign out not working
